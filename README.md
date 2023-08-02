@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://instagram.com/iam_chetangaste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_chetangaste" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gastechetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gastechetan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sitcoe-chetan-gaste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Chetan Gaste" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sitcoe-chetan-gaste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="" height="30" width="40" /></a>
   
 </p>
 
